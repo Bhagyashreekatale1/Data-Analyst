@@ -8,15 +8,11 @@
 
 ### 📊 Data Analytics & Visualization
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="45" height="45"/>
+<p >
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
-
-**Power BI** &nbsp; | &nbsp; **Microsoft Excel** &nbsp; | &nbsp; **Tableau**
 
 
 ### 🗄️ Databases
