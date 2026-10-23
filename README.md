@@ -26,11 +26,12 @@ I use Python, SQL, Excel, and Power BI to clean and analyze data, identify trend
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css" alt="Python, C#, JavaScript, HTML, CSS" />
-</p>
+### &#x20;Programming & Query Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
+</p>
 ### 📊 Data Analytics & Visualization
 <p>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
