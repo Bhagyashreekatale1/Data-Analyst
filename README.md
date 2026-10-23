@@ -94,5 +94,9 @@ Seeking an entry-level **Data Analyst or Business Intelligence role** where I ca
 
 ## 🤝 Connect With Me
 
-<p>
+## 🤝 Connect With Me
+
+<p align="left">
   <a href="https://github.com/Bhagyashreekatale1" target="_blank">GitHub</a> |
+  <a href="https://linkedin.com/in/bhagyashree-katale-6b6256357" target="_blank">LinkedIn</a>
+</p>
