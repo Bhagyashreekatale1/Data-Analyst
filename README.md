@@ -20,6 +20,14 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="MySQL, PostgreSQL, SQLite" height="45"/>
 </p>
 
+### 📊 Statistics
+- Descriptive Statistics: Mean, Median, Mode
+- Probability and Probability Distributions
+- Variance and Standard Deviation
+- Correlation and Covariance
+- Hypothesis Testing
+- Data Interpretation and Trend Analysis
+
 ### 📚 Python Libraries
 <p align="left">
   <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="45"/>
