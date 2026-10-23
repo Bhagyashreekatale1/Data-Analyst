@@ -5,13 +5,9 @@ Data Analyst projects using SQL, Python, Excel, Power BI
 
 Welcome to my Data Analyst repository! 👋
 
-I'm Bhagyashree Katale, an aspiring Data Analyst interested in analyzing datasets, discovering trends, building dashboards, and solving business problems using data.
+I'm Bhagyashree Katale, an aspiring Data Analyst.
 
-🌐 My Data Analyst Portfolio
-
-Explore my portfolio to view my projects, technical skills, and data analytics work.
-
-🔗 View My Data Analyst Portfolio
+🔗 [**View My Data Analyst Portfolio**](https://bhagyashreekatale1.github.io/Data-Analyst/)
 
 ## 🛠️ Technologies & Tools
 
