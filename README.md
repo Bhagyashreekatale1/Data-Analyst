@@ -26,13 +26,35 @@ I use Python, SQL, Excel, and Power BI to clean and analyze data, identify trend
 
 ## 🛠️ Technical Skills
 
-- **Programming & Data Analysis:** Python, Pandas, NumPy
-- **Databases & SQL:** SQL, MySQL, PostgreSQL, SQLite
-- **Business Intelligence:** Power BI, DAX, Power Query
-- **Data Visualization:** Power BI, Matplotlib, Seaborn
-- **Microsoft Excel:** Pivot Tables, VLOOKUP, XLOOKUP, Charts
-- **Analytics Techniques:** Data Cleaning, EDA, KPI Analysis, Trend Analysis
-- **Tools:** Jupyter Notebook, Git, GitHub
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css" alt="Python, C#, JavaScript, HTML, CSS" />
+</p>
+
+### 📊 Data Analytics & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" />
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="48" alt="Tableau" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="MySQL, PostgreSQL, SQLite" />
+</p>
+
+### 📚 Python Libraries
+<p>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="Jupyter Notebook" />
+</p>
+
+### 🔧 Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+</p>
 
 ## 📊 Featured Projects
 
