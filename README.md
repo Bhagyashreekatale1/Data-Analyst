@@ -60,6 +60,37 @@ I use Python, SQL, Excel, and Power BI to clean and analyze data, identify trend
 
 ![Statistics](https://img.shields.io/badge/Statistics-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
+## 📊 Featured Projects
+
+### 1. Olist E-Commerce Analytics
+Analyze sales, customer behavior, order trends, and delivery performance to identify business opportunities.
+
+**Tech Stack:** SQL, Power BI, Data Visualization
+
+### 2. Uber Rides Data Analysis
+Explore ride demand, peak hours, trip patterns, and operational trends to support data-driven resource planning.
+
+**Tech Stack:** Python, Pandas, SQL, Exploratory Data Analysis
+
+### 3. Vendor Performance Analysis
+Evaluate vendor performance, purchasing trends, and supplier metrics to support procurement and operational decisions.
+
+**Tech Stack:** Python, Pandas, SQLite, Power BI
+
+### 4. Customer Segmentation Dashboard
+Use Recency, Frequency, and Monetary (RFM) analysis to segment customers and identify customer value and retention opportunities.
+
+**Tech Stack:** Python, SQL, Power BI, RFM Analysis
+
+## 🎯 Career Objective
+
+Seeking an entry-level **Data Analyst or Business Intelligence role** where I can apply analytical and technical skills to solve business problems, uncover insights, and support informed decision-making.
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/Bhagyashreekatale1" target="_blank">GitHub</a> |
+
 ### 🔧 Tools & Version Control
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" height="45"/>
