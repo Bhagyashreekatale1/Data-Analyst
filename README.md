@@ -1,9 +1,9 @@
 # Data-Analyst
-Data Analystprojects using SQL, Python, Excel, Power BI
+Data Analyst projects using SQL, Python, Excel, Power BI
 
-# 📊 Data Analytics Projects
+# 📊 Data Analyst Projects
 
-Welcome to my Data Analytics repository! 👋
+Welcome to my Data Analyst repository! 👋
 
 I'm Bhagyashree Katale, an aspiring Data Analyst interested in analyzing datasets, discovering trends, building dashboards, and solving business problems using data.
 
