@@ -20,13 +20,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="MySQL, PostgreSQL, SQLite" height="45"/>
 </p>
 
-### 📊 Statistics
-- Descriptive Statistics: Mean, Median, Mode
-- Probability and Probability Distributions
-- Variance and Standard Deviation
-- Correlation and Covariance
-- Hypothesis Testing
-- Data Interpretation and Trend Analysis
 
 ### 📚 Python Libraries
 <p align="left">
@@ -34,6 +27,10 @@
   <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="45"/>
   <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter Notebook" height="45"/>
 </p>
+
+### 📊 Statistics
+
+![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🔧 Tools & Version Control
 <p align="left">
