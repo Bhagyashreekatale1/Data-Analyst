@@ -1,21 +1,75 @@
 
-<h2>👋 About Me</h2>
+<h1 align="center">Hi, I'm Bhagyashree Katale 👋</h1>
 
-<p>I'm <strong>Bhagyashree Katale</strong>, an aspiring Data Analyst.</p>
+<h3 align="center">
+  Aspiring Data Analyst | Business Intelligence | Data Visualization
+</h3>
 
-<p>
-  🔗 <a href="https://bhagyashreekatale1.github.io/Data-Analyst/" target="_blank">
-    <strong>View My Data Analyst Portfolio</strong>
+<p align="center">
+  <a href="https://bhagyashreekatale1.github.io/Data-Analyst/" target="_blank">
+    <strong>🔗 View My Data Analyst Portfolio</strong>
   </a>
 </p>
 
-<h2>🛠️ Technical Skills</h2>
+---
+
+## 👩‍💻 About Me
+
+I'm **Bhagyashree Katale**, an aspiring Data Analyst passionate about transforming raw data into meaningful insights that support data-driven business decisions.
+
+I use Python, SQL, Excel, and Power BI to clean and analyze data, identify trends, track key performance indicators (KPIs), and create interactive dashboards that communicate actionable business insights.
+
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🐍 Practicing Python, Pandas, NumPy, and SQL
+- 📈 Building interactive Power BI dashboards and analytical projects
+- 🎯 Seeking entry-level Data Analyst and Business Intelligence opportunities
+
+## 🛠️ Technical Skills
+
+- **Programming & Data Analysis:** Python, Pandas, NumPy
+- **Databases & SQL:** SQL, MySQL, PostgreSQL, SQLite
+- **Business Intelligence:** Power BI, DAX, Power Query
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Microsoft Excel:** Pivot Tables, VLOOKUP, XLOOKUP, Charts
+- **Analytics Techniques:** Data Cleaning, EDA, KPI Analysis, Trend Analysis
+- **Tools:** Jupyter Notebook, Git, GitHub
+
+## 📊 Featured Projects
+
+### 1. Olist E-Commerce Analytics
+Analyze sales, customer behavior, order trends, and delivery performance to identify business opportunities.
+
+**Tech Stack:** SQL, Power BI, Data Visualization
+
+### 2. Uber Rides Data Analysis
+Explore ride demand, peak hours, trip patterns, and operational trends to support data-driven resource planning.
+
+**Tech Stack:** Python, Pandas, SQL, Exploratory Data Analysis
+
+### 3. Vendor Performance Analysis
+Evaluate vendor performance, purchasing trends, and supplier metrics to support procurement and operational decisions.
+
+**Tech Stack:** Python, Pandas, SQLite, Power BI
+
+### 4. Customer Segmentation Dashboard
+Use Recency, Frequency, and Monetary (RFM) analysis to segment customers and identify customer value and retention opportunities.
+
+**Tech Stack:** Python, SQL, Power BI, RFM Analysis
+
+## 🎯 Career Objective
+
+Seeking an entry-level **Data Analyst or Business Intelligence role** where I can apply analytical and technical skills to solve business problems, uncover insights, and support informed decision-making.
+
+## 🤝 Connect With Me
 
 <p>
-  <strong>Programming:</strong> Python<br>
-  <strong>Data Analysis:</strong> Pandas, NumPy<br>
-  <strong>Databases:</strong> SQL, MySQL, PostgreSQL, SQLite<br>
-  <strong>Visualization:</strong> Power BI, Matplotlib, Seaborn<br>
-  <strong>Spreadsheet:</strong> Microsoft Excel<br>
-  <strong>Tools:</strong> Jupyter Notebook, Git, GitHub
+  <a href="https://github.com/Bhagyashreekatale1" target="_blank">GitHub</a> |
+  <a href="https://www.linkedin.com/in/bhagyashree-katale-6b6256357" target="_blank">LinkedIn</a> |
+  <a href="https://bhagyashreekatale1.github.io/Data-Analyst/" target="_blank">Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Continuously learning, building projects, and turning data into actionable insights.</i>
 </p>
