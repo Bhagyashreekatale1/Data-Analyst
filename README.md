@@ -33,11 +33,12 @@ I use Python, SQL, Excel, and Power BI to clean and analyze data, identify trend
   <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
 </p>
 ### 📊 Data Analytics & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="48" alt="Tableau" />
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL / SQL" width="45" height="45"/>
 </p>
 
 ### 🗄️ Databases
