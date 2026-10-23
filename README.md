@@ -30,7 +30,7 @@
 
 ### 📊 Statistics
 
-![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🔧 Tools & Version Control
 <p align="left">
