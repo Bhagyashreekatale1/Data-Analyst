@@ -7,6 +7,12 @@ Welcome to my Data Analyst repository! 👋
 
 I'm Bhagyashree Katale, an aspiring Data Analyst interested in analyzing datasets, discovering trends, building dashboards, and solving business problems using data.
 
+🌐 My Data Analyst Portfolio
+
+Explore my portfolio to view my projects, technical skills, and data analytics work.
+
+🔗 View My Data Analyst Portfolio
+
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
