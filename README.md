@@ -60,6 +60,12 @@ I use Python, SQL, Excel, and Power BI to clean and analyze data, identify trend
 
 ![Statistics](https://img.shields.io/badge/Statistics-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
+### 🔧 Tools & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" height="45"/>
+</p>
+
+
 ## 📊 Featured Projects
 
 ### 1. Olist E-Commerce Analytics
@@ -90,8 +96,3 @@ Seeking an entry-level **Data Analyst or Business Intelligence role** where I ca
 
 <p>
   <a href="https://github.com/Bhagyashreekatale1" target="_blank">GitHub</a> |
-
-### 🔧 Tools & Version Control
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" height="45"/>
-</p>
