@@ -152,16 +152,13 @@ The project uses an Excel workbook containing three datasets: Orders, Returns, a
 ## 📸 Dashboard Preview
 
 ### 1. Sales Overview
-
-![Sales Overview](images/Sales%20Overview.png)
+![Sales Overview](images/Sale%20Overview.png)
 
 ### 2. Sales Performance
-
 ![Sales Performance](images/Sales%20Performance.png)
 
 ### 3. Order Fulfillment
-
-![Order Fulfillment](images/Order%20Fulfillment.png)
+![Order Fulfillment](images/Order%20Fulfilled.png)
 
 ## 7. 🔍 Key Insights
 
