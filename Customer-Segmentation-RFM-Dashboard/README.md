@@ -62,21 +62,21 @@ The dashboard analyzes customer purchasing patterns and segments customers based
 
 ## 📸 Dashboard Preview
 
-### Customer Overview
+### 1. Customer Overview
 
-![Customer Overview](Images/Overview.png)
-
----
-
-### Customer Behavior Insights
-
-![Customer Behavior](Images/Customer_Behavior.png)
+![Customer Overview](Images/Customer%20Overview.png)
 
 ---
 
-### Customer Risk & Retention
+### 2. Customer Behavior Insights
 
-![Customer Risk](Images/Customer_Risk.png)
+![Customer Behavior Insights](Images/Customer%20Behavior%20Insights.png)
+
+---
+
+### 3. Customer Risk & Retention
+
+![Customer Risk & Retention](Images/Customer%20Risk%20%26%20Retention.png)
 
 ---
 
