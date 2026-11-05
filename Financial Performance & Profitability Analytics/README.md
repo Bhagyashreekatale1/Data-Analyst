@@ -63,7 +63,7 @@ Provides an executive-level summary of financial performance, helping stakeholde
 
 **Dashboard Preview:**
 
-![Financial Overview](Images/overview.png)
+![Financial Overview](Images/Overview.png)
 
 ---
 
@@ -195,7 +195,7 @@ Financial-Performance-Analytics/
 │   └── Financial_Performance_Dashboard.pbix
 │
 ├── Images/
-│   ├── overview.png
+│   ├── Overview.png
 │   ├── Product Performance.png
 │   └── Discount Analysis.png
 │
