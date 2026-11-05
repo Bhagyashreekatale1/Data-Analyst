@@ -1,30 +1,30 @@
 # 📊 Financial Performance & Profitability Analytics Dashboard
-### End-to-End Data Analytics Project | SQL | Power BI | Excel
+### End-to-End Data Analytics Project | MySQL | SQL | Power BI | Excel
 
 ## 📌 Project Overview
 
 This project focuses on analyzing financial performance, revenue trends, product profitability, and discount strategies using **MySQL and Microsoft Power BI**.
 
-The objective is to transform raw financial data into meaningful business insights that help organizations monitor financial performance, identify profitable products, evaluate discount effectiveness, and make data-driven pricing decisions.
+The objective is to transform raw financial data into meaningful business insights that help organizations monitor financial performance, identify profitable products, evaluate discount effectiveness, and make data-driven business decisions.
 
-The project follows an end-to-end data analytics workflow, including data preparation, SQL-based analysis, KPI development, and interactive dashboard creation.
+The project follows an end-to-end data analytics workflow, including database creation, data preparation, SQL-based analysis, KPI calculations, and interactive dashboard development.
 
 ## 🎯 Business Problem Statement
 
 Businesses often face challenges in understanding their financial performance, identifying profitable products, and evaluating whether their discount strategies are generating sustainable profits.
 
-Although sales revenue may increase, excessive discounting can reduce profit margins and negatively affect overall business performance.
+Increasing sales revenue does not necessarily result in higher profitability, as excessive discounting can reduce profit margins. Without a centralized reporting solution, stakeholders may find it difficult to monitor financial trends and identify opportunities for improvement.
 
-The organization needs a centralized financial analytics solution to:
+The business requires an interactive analytics solution to:
 
 - Monitor overall revenue, profit, and profit margins.
 - Identify products contributing the most to business profitability.
-- Evaluate the relationship between discount levels and profit margins.
-- Understand monthly revenue trends and seasonal performance.
+- Analyze monthly revenue and profit trends.
+- Evaluate the impact of discount levels on revenue and profitability.
 - Compare financial performance across business segments and countries.
-- Support better pricing and discount-related decisions.
+- Identify opportunities to optimize product pricing and discount strategies.
 
-**Business Goal:** Develop an interactive financial analytics dashboard that provides visibility into revenue performance, product profitability, and discount effectiveness to support informed business decisions and improve profitability.
+**Business Goal:** Develop an interactive financial analytics dashboard that provides visibility into financial performance, product profitability, and discount effectiveness to support informed business decisions.
 
 ## 🛠️ Tools & Technologies
 
@@ -38,11 +38,11 @@ The organization needs a centralized financial analytics solution to:
 
 ## 📊 Dashboard Pages & Analysis
 
-The dashboard consists of three interactive pages, each addressing a different business requirement.
+The project consists of three interactive dashboard pages designed to analyze financial performance from different business perspectives.
 
 ### 1. Financial Overview Dashboard
 
-Provides an executive-level overview of the organization's financial performance, helping stakeholders monitor revenue, profitability, and business trends.
+Provides an executive-level summary of financial performance, helping stakeholders monitor revenue, profitability, monthly trends, and geographical performance.
 
 **Key Features:**
 - Total Revenue KPI
@@ -52,21 +52,24 @@ Provides an executive-level overview of the organization's financial performance
 - Monthly Revenue Trend Analysis
 - Revenue by Business Segment
 - Revenue by Country (Map Visualization)
-- Executive Insights
+- Key Business Insights
+- Segment and Year Filters
 
-**Key Business Insight:**
+**Key Business Insights:**
 
-Revenue peaked in October, highlighting a seasonal sales pattern. The analysis also indicates that higher discount levels can reduce profit margins, emphasizing the importance of effective discount management.
+- Revenue peaked in October, indicating a seasonal sales pattern.
+- Government is the leading business segment in revenue contribution.
+- Higher discount levels are associated with reduced profit margins.
 
 **Dashboard Preview:**
 
-![Financial Overview](Overview.png)
+![Financial Overview](Images/overview.png)
 
 ---
 
 ### 2. Product Performance Dashboard
 
-Analyzes product-level financial performance to identify high-revenue products, profitable product categories, and products requiring performance improvement.
+Analyzes product-level financial performance to identify top-performing products, compare revenue and profit contributions, and evaluate product profitability.
 
 **Key Features:**
 - Total Products KPI
@@ -74,17 +77,20 @@ Analyzes product-level financial performance to identify high-revenue products, 
 - Average Profit per Product
 - Top Performing Product
 - Profit by Product
-- Revenue vs. Profit Comparison
+- Revenue vs. Profit by Product
 - Product Profitability Scatter Chart
 - Product Profitability Matrix
+- Product, Segment, and Year Filters
 
-**Key Business Insight:**
+**Key Business Insights:**
 
-Paseo is the leading product in terms of financial contribution. Product-level comparisons help identify high-performing products and highlight opportunities to improve the profitability of lower-margin products.
+- Paseo generates the highest total profit among the analyzed products.
+- VTT and Amarilla also contribute significantly to overall profitability.
+- Product-level comparisons help identify lower-margin products that may require pricing optimization.
 
 **Dashboard Preview:**
 
-![Product Performance](Product_Performance.png)
+![Product Performance](Images/Product%20Performance.png)
 
 ---
 
@@ -98,49 +104,70 @@ Evaluates how different discount levels influence revenue, sales volume, and pro
 - Average Discount Impact
 - Profit Margin %
 - Revenue and Profit by Discount Band
-- Profit Margin Trend by Discount
+- Profit Margin by Discount Level
 - Units Sold by Discount Level
 - Discount Performance Matrix
+- Segment, Year, and Country Filters
 
-**Key Business Insight:**
+**Key Business Insights:**
 
-Higher discount levels are associated with increased sales volume but reduced profit margins. Analyzing discount bands helps identify opportunities to balance sales growth with sustainable profitability.
+- High discount levels generate substantial revenue but have the lowest profit margin.
+- The High discount band records a profit margin of approximately 7.20%.
+- The None discount band achieves the highest profit margin of approximately 23.62%.
+- Low and Medium discount bands maintain better profit margins than the High discount band.
 
 **Dashboard Preview:**
 
-![Discount Analysis](Discount_Analysis.png)
+![Discount Analysis](Images/Discount%20Analysis.png)
 
 ---
 
 ## 🧮 SQL Data Processing & Analysis
 
-MySQL was used to prepare, transform, and analyze the financial dataset before developing the Power BI dashboard.
+MySQL was used to create the database, prepare financial data, perform analytical calculations, and generate structured data for Power BI reporting.
 
-**Key SQL Tasks:**
+**Key SQL Operations:**
 
-- Data inspection and quality checks.
-- Handling missing and inconsistent values.
-- Duplicate record identification and removal.
-- Data cleaning and transformation.
-- Aggregation using GROUP BY.
-- Financial calculations using SQL queries.
-- Product, segment, and discount-level analysis.
-- Monthly revenue and profit analysis.
-- Creating summary queries for business reporting.
+| Step | SQL Operations |
+|---|---|
+| 1 | Created the MySQL database `financialanalyticsdb`. |
+| 2 | Created the `financial_data` table with appropriate data types. |
+| 3 | Identified invalid records using filtering conditions. |
+| 4 | Detected duplicate records using `GROUP BY` and `HAVING`. |
+| 5 | Created a cleaned table using `ROW_NUMBER()` to retain one record per defined duplicate group. |
+| 6 | Calculated financial KPIs using aggregate functions. |
+| 7 | Analyzed revenue and profit by business segment. |
+| 8 | Analyzed financial performance by country. |
+| 9 | Calculated monthly revenue and profit trends. |
+| 10 | Evaluated product-level revenue and profitability. |
+| 11 | Analyzed discount-level revenue, profit, and profit margins. |
+| 12 | Created `financial_dashboard_view` for dashboard reporting. |
+| 13 | Retrieved the final dashboard dataset from the SQL view. |
+
+**SQL Concepts Used:**
+
+- CREATE DATABASE and CREATE TABLE
+- SELECT and WHERE
+- GROUP BY and HAVING
+- Aggregate Functions: SUM(), AVG(), COUNT()
+- ROUND() for financial calculations
+- ORDER BY
+- Window Functions: ROW_NUMBER()
+- CREATE TABLE AS SELECT
+- CREATE VIEW
 
 ## 📈 Key Business Metrics
-
-The following KPIs and analytical metrics were developed:
 
 | Metric | Business Purpose |
 |---|---|
 | Total Revenue | Measures overall sales performance. |
 | Total Profit | Evaluates business profitability. |
 | Profit Margin % | Measures profit relative to revenue. |
-| Units Sold | Tracks product sales volume. |
-| Revenue by Segment | Compares segment-level performance. |
+| Total Units Sold | Tracks overall sales volume. |
+| Average Discount | Measures the average recorded discount value. |
+| Revenue by Segment | Compares business segment performance. |
 | Profit by Product | Identifies profitable products. |
-| Monthly Revenue | Tracks sales trends and seasonality. |
+| Monthly Revenue | Tracks monthly revenue trends. |
 | Discount Impact | Evaluates discount effectiveness. |
 
 ## 💡 Business Insights & Recommendations
@@ -148,10 +175,10 @@ The following KPIs and analytical metrics were developed:
 The dashboard supports the following business decisions:
 
 1. **Financial Performance:** Monitor revenue and profit trends to evaluate overall business performance.
-2. **Product Optimization:** Identify high-profit products and prioritize products with stronger profitability.
-3. **Discount Optimization:** Evaluate discount bands to avoid unnecessary reductions in profit margins.
-4. **Seasonal Planning:** Use monthly revenue trends to understand seasonal demand and support sales planning.
-5. **Segment Performance:** Compare business segments and geographical performance to identify growth opportunities.
+2. **Product Optimization:** Identify high-profit products and evaluate opportunities to improve lower-margin products.
+3. **Discount Optimization:** Analyze discount bands to avoid excessive discounting that negatively affects profit margins.
+4. **Seasonal Planning:** Use monthly revenue trends to understand seasonal performance and support sales planning.
+5. **Segment Analysis:** Compare business segment and geographical performance to identify potential growth opportunities.
 
 ## 📂 Project Folder Structure
 
@@ -168,9 +195,9 @@ Financial-Performance-Analytics/
 │   └── Financial_Performance_Dashboard.pbix
 │
 ├── Images/
-│   ├── Overview.png
-│   ├── Product_Performance.png
-│   └── Discount_Analysis.png
+│   ├── overview.png
+│   ├── Product Performance.png
+│   └── Discount Analysis.png
 │
 └── README.md
 ```
@@ -178,16 +205,17 @@ Financial-Performance-Analytics/
 ## 🚀 How to Use This Project
 
 1. Download the financial dataset from the Dataset folder.
-2. Import the dataset into MySQL.
-3. Execute the SQL queries provided in the SQL folder.
-4. Connect the processed data to Power BI.
-5. Open the `.pbix` file from the Dashboard folder.
-6. Explore the interactive dashboard using slicers and filters.
+2. Create the database and financial table using the SQL script.
+3. Import the Excel dataset into the MySQL table.
+4. Execute the SQL queries to perform data validation, duplicate handling, and financial analysis.
+5. Connect the processed data or SQL view to Power BI.
+6. Open the `.pbix` file from the Dashboard folder.
+7. Explore the interactive dashboards using available slicers and filters.
 
 ## 📌 Skills Demonstrated
 
-- **SQL:** Data Cleaning, Data Transformation, Aggregations, Joins, Business Queries.
-- **Power BI:** Interactive Dashboards, KPI Cards, Data Modeling, Data Visualization.
+- **SQL:** Database Creation, Data Validation, Duplicate Detection, Window Functions, Aggregations, Views, Financial Queries.
+- **Power BI:** Interactive Dashboards, KPI Development, Data Modeling, Data Visualization, Business Reporting.
 - **Excel:** Dataset Inspection and Data Preparation.
 - **Business Analytics:** Financial Analysis, Revenue Analysis, Product Profitability, Discount Analysis.
 - **Data Storytelling:** Business Insights, Performance Monitoring, Data-Driven Recommendations.
@@ -205,6 +233,6 @@ Aspiring Data Analyst | SQL | Power BI | Python | Excel
 
 ## ⭐ Project Summary
 
-Developed an end-to-end Financial Performance & Profitability Analytics Dashboard using **MySQL and Power BI** to analyze revenue trends, product profitability, and discount effectiveness.
+Developed an end-to-end Financial Performance & Profitability Analytics Dashboard using **MySQL and Power BI** to analyze financial performance, monthly revenue trends, product profitability, and discount effectiveness.
 
-The project demonstrates the application of SQL-based data preparation, financial KPI development, and interactive business intelligence dashboards to identify profitability trends and support data-driven financial decisions.
+Implemented SQL-based data validation, duplicate handling, financial KPI calculations, and analytical queries. Built three interactive Power BI dashboards to identify business trends, evaluate product performance, and assess the impact of discount strategies on profitability.
