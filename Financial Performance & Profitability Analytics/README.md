@@ -1,5 +1,5 @@
 # 📊 Financial Performance & Profitability Analytics Dashboard
-### End-to-End Data Analytics Project | MySQL | SQL | Power BI | Excel
+### End-to-End Data Analytics Project | MySQL | Power BI | Excel
 
 ## 📌 Project Overview
 
