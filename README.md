@@ -68,23 +68,31 @@ I use Python, SQL, Excel, and Power BI to clean and analyze data, identify trend
 
 ## 📊 Featured Projects
 
-### 1. Olist E-Commerce Analytics
-Analyze sales, customer behavior, order trends, and delivery performance to identify business opportunities.
+### 1. Flipkart Sales Analytics
+[View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Flipkart-Sales-Analytics)
 
-**Tech Stack:** SQL, Power BI, Data Visualization
+Analyze sales performance, product trends, revenue, and regional distribution to identify business insights and support data-driven decisions.
+
+**Tech Stack:** Power BI, Power Query, Data Visualization
 
 ### 2. Uber Rides Data Analysis
-Explore ride demand, peak hours, trip patterns, and operational trends to support data-driven resource planning.
+[View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Uber-Rides-Analysis)
 
-**Tech Stack:** Python, Pandas, SQL, Exploratory Data Analysis
+Analyze ride bookings, revenue trends, peak hours, customer behavior, and cancellation patterns to understand operational performance and ride demand.
+
+**Tech Stack:** Python, Pandas, SQL, Power BI, Exploratory Data Analysis
 
 ### 3. Vendor Performance Analysis
-Evaluate vendor performance, purchasing trends, and supplier metrics to support procurement and operational decisions.
+[View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Vendor-Performance-Analysis)
 
-**Tech Stack:** Python, Pandas, SQLite, Power BI
+Evaluate vendor performance, purchasing patterns, sales contribution, and supplier metrics to identify improvement opportunities and support procurement decisions.
 
-### 4. Customer Segmentation Dashboard
-Use Recency, Frequency, and Monetary (RFM) analysis to segment customers and identify customer value and retention opportunities.
+**Tech Stack:** Python, Pandas, SQLite, SQL, Power BI
+
+### 4. Customer Segmentation & RFM Analysis
+[View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Customer-Segmentation-RFM-Dashboard)
+
+Apply Recency, Frequency, and Monetary (RFM) analysis to segment customers, identify high-value customers, and understand customer retention opportunities.
 
 **Tech Stack:** Python, SQL, Power BI, RFM Analysis
 
