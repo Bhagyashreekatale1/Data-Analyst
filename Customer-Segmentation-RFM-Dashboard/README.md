@@ -1,3 +1,4 @@
+
 # 📊 Customer Segmentation & RFM Analysis Dashboard
 
 ## 📌 Project Overview
@@ -5,6 +6,14 @@
 This project focuses on **Customer Segmentation and RFM (Recency, Frequency, Monetary) Analysis** using **Microsoft Power BI**.
 
 The dashboard analyzes customer purchasing patterns and segments customers based on their transaction history. It helps identify valuable customers, understand customer behavior, recognize customers at risk of churn, and support data-driven customer retention strategies.
+
+## 🏢 Business Problem
+
+Businesses often struggle to understand customer purchasing behavior, identify their most valuable customers, and recognize customers who may stop purchasing.
+
+Without proper customer segmentation, it becomes difficult to identify loyal customers, monitor declining customer engagement, and develop effective customer retention strategies.
+
+This project uses RFM (Recency, Frequency, Monetary) Analysis to segment customers based on their purchasing history. The Power BI dashboard provides insights into customer value, purchasing patterns, revenue contribution, and churn risk, helping businesses make informed decisions to improve customer retention and maximize revenue.
 
 ## 🎯 Business Objectives
 
@@ -62,19 +71,19 @@ The dashboard analyzes customer purchasing patterns and segments customers based
 
 ## 📸 Dashboard Preview
 
-### 1. Customer Overview
+### 1️⃣ Customer Overview
 
 ![Customer Overview](Images/Customer%20Overview.png)
 
 ---
 
-### 2. Customer Behavior Insights
+### 2️⃣ Customer Behavior Insights
 
 ![Customer Behavior Insights](Images/Customer%20Behavior%20Insights.png)
 
 ---
 
-### 3. Customer Risk & Retention
+### 3️⃣ Customer Risk & Retention
 
 ![Customer Risk & Retention](Images/Customer%20Risk%20%26%20Retention.png)
 
