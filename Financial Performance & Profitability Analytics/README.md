@@ -189,7 +189,7 @@ Financial-Performance-Analytics/
 │   └── Financial_Sample.xlsx
 │
 ├── SQL/
-│   └── financial_analysis_queries.sql
+│   └── financial_analysis.sql
 │
 ├── Dashboard/
 │   └── Financial_Performance_Dashboard.pbix
