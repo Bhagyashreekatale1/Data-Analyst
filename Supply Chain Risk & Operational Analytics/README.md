@@ -86,22 +86,30 @@ The dashboard contains seven analytical pages:
 | 6. Product Risk | Product profitability and loss analysis |
 | 7. Action Dashboard | High-priority risks and improvement opportunities |
 
+
 ## 📸 Dashboard Screenshots
 
 ### 1. Executive Summary
 ![Executive Summary](./Screenshot/Executive%20Summary.png)
 
-### 2. Action Dashboard
-![Action Dashboard](./Screenshot/Action%20Dashboard%20.png)
+### 2. Risk Overview
+![Risk Overview](./Screenshot/Risk%20Overview.png)
 
-### 3. Product Risk
-![Product Risk](./Screenshot/Product%20Risk.png)
+### 3. Delivery Performance
+![Delivery Performance](./Screenshot/Delivery%20Performance.png)
 
-### 4. Shipping Mode Analysis
+### 4. Delay Analysis
+![Delay Analysis](./Screenshot/Delay%20Analysis.png)
+
+### 5. Shipping Mode Analysis
 ![Shipping Mode Analysis](./Screenshot/Shipping%20Mode%20Analysis.png)
 
-### 5. Risk Overview
-![Risk Overview](./Screenshot/Risk%20Overview.png)
+### 6. Product Risk
+![Product Risk](./Screenshot/Product%20Risk.png)
+
+### 7. Action Dashboard
+![Action Dashboard](./Screenshot/Action%20Dashboard%20.png)
+
 
 ## 📈 Key Business Metrics
 
