@@ -184,7 +184,7 @@ The factors were normalized to a 0–100 scale and combined into an overall risk
 Supply Chain Risk & Operational Analytics/
 │
 ├── Dashboard/
-│   └── Supply_Chain_Risk_Analytics.pbix
+│   └── Supply_Chain_Risk_Dashboard.pbix
 │
 ├── Dataset/
 │   ├── action_priority_table.csv
