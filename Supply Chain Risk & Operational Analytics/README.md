@@ -183,6 +183,9 @@ The factors were normalized to a 0–100 scale and combined into an overall risk
 ```text
 Supply Chain Risk & Operational Analytics/
 │
+├── Dashboard/
+│   └── Supply_Chain_Risk_Analytics.pbix
+│
 ├── Dataset/
 │   ├── action_priority_table.csv
 │   ├── delivery_risk_by_region.csv
@@ -200,9 +203,6 @@ Supply Chain Risk & Operational Analytics/
 │   ├── create-tables.sql
 │   └── validate-data.sql
 │
-├── Dashboard/
-│   └── Supply_Chain_Risk_Dashboard.pbix
-│
 ├── Screenshot/
 │   ├── Executive Summary.png
 │   ├── Risk Overview.png
@@ -210,7 +210,7 @@ Supply Chain Risk & Operational Analytics/
 │   ├── Delay Analysis.png
 │   ├── Shipping Mode Analysis.png
 │   ├── Product Risk.png
-│   └── Action Dashboard.png
+│   └── Action Dashboard .png
 │
 └── README.md
 ```
