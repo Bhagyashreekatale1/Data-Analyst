@@ -201,8 +201,7 @@ Supply Chain Risk & Operational Analytics/
 │   ├── Delivery Performance.png
 │   ├── Delay Analysis.png
 │   ├── Shipping Mode Analysis.png
-│   ├── Product Risk.png
-│   └── Action Dashboard .png
+│   └── Product Risk.png
 │
 └── README.md
 ```
