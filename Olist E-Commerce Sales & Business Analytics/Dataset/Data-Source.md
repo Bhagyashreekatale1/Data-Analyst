@@ -1,4 +1,4 @@
-## Data Sources
+## Data Source
 
 This project uses the publicly available **Olist Brazilian E-Commerce Dataset** from Kaggle.
 
