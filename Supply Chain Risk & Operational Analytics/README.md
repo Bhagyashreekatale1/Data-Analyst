@@ -201,7 +201,7 @@ Supply Chain Risk & Operational Analytics/
 │   └── validate-data.sql
 │
 ├── Dashboard/
-│   └── Supply_Chain_Risk_Analytics.pbix
+│   └── Supply_Chain_Risk_Dashboard.pbix
 │
 ├── Screenshot/
 │   ├── Executive Summary.png
