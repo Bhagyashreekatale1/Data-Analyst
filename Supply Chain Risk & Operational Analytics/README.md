@@ -89,24 +89,19 @@ The dashboard contains seven analytical pages:
 ## 📸 Dashboard Screenshots
 
 ### 1. Executive Summary
-
-![Executive Summary](Screenshot/01_Executive_Summary.png)
+![Executive Summary](./Screenshot/Executive%20Summary.png)
 
 ### 2. Action Dashboard
-
-![Action Dashboard](Screenshot/07_Action_Dashboard.png)
+![Action Dashboard](./Screenshot/Action%20Dashboard%20.png)
 
 ### 3. Product Risk
-
-![Product Risk](Screenshot/06_Product_Risk.png)
+![Product Risk](./Screenshot/Product%20Risk.png)
 
 ### 4. Shipping Mode Analysis
-
-![Shipping Mode Analysis](Screenshot/05_Shipping_Mode_Analysis.png)
+![Shipping Mode Analysis](./Screenshot/Shipping%20Mode%20Analysis.png)
 
 ### 5. Risk Overview
-
-![Risk Overview](Screenshot/02_Risk_Overview.png)
+![Risk Overview](./Screenshot/Risk%20Overview.png)
 
 ## 📈 Key Business Metrics
 
