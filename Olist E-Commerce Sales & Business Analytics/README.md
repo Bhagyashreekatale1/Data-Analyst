@@ -96,7 +96,7 @@ Key analysis areas include:
 
 ## 7. Power BI Dashboard
 
-An interactive Power BI dashboard was developed to analyze business performance across five pages.
+An interactive Power BI dashboard was developed to analyze e-commerce business performance across five analytical pages.
 
 ### Dashboard Pages
 
@@ -109,19 +109,24 @@ An interactive Power BI dashboard was developed to analyze business performance 
 ### Dashboard Screenshots
 
 #### 1. Summary
-![Summary Dashboard](./Dashboard/Screenshots/Summary.png)
+
+![Summary Dashboard](https://raw.githubusercontent.com/Bhagyashreekatale1/Data-Analyst/main/Olist%20E-Commerce%20Sales%20%26%20Business%20Analytics/Screenshot/Summary.png)
 
 #### 2. Customers
-![Customers Dashboard](./Dashboard/Screenshots/Customers.png)
+
+![Customers Dashboard](https://raw.githubusercontent.com/Bhagyashreekatale1/Data-Analyst/main/Olist%20E-Commerce%20Sales%20%26%20Business%20Analytics/Screenshot/Customers.png)
 
 #### 3. Orders
-![Orders Dashboard](./Dashboard/Screenshots/Orders.png)
+
+![Orders Dashboard](https://raw.githubusercontent.com/Bhagyashreekatale1/Data-Analyst/main/Olist%20E-Commerce%20Sales%20%26%20Business%20Analytics/Screenshot/Orders.png)
 
 #### 4. Sellers
-![Sellers Dashboard](./Dashboard/Screenshots/Sellers.png)
+
+![Sellers Dashboard](https://raw.githubusercontent.com/Bhagyashreekatale1/Data-Analyst/main/Olist%20E-Commerce%20Sales%20%26%20Business%20Analytics/Screenshot/Sellers.png)
 
 #### 5. Categories
-![Categories Dashboard](./Dashboard/Screenshots/Categories.png)
+
+![Categories Dashboard](https://raw.githubusercontent.com/Bhagyashreekatale1/Data-Analyst/main/Olist%20E-Commerce%20Sales%20%26%20Business%20Analytics/Screenshot/Categories.png)
 
 ## 8. Power BI Dashboard File
 
