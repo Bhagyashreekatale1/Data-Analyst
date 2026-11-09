@@ -132,7 +132,7 @@ An interactive Power BI dashboard was developed to analyze e-commerce business p
 
 The Power BI dashboard file (`.pbix`) is hosted externally due to GitHub file size considerations.
 
-**Download:** [Olist E-Commerce Power BI Dashboard](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+**Download:** [Olist E-Commerce Power BI Dashboard](https://drive.google.com/file/d/1YamLfUYkdvhCPrapq5HWWZfsi552tGZK/view))
 
 Download the file and open it using Power BI Desktop to explore the interactive dashboard.
 
