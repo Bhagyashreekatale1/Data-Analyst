@@ -1,4 +1,4 @@
-Olist # E-Commerce Sales & Business Analytics
+# Olist E-Commerce Sales & Business Analytics
 
 An end-to-end data analytics project using the **Olist Brazilian E-Commerce Dataset** to analyze sales performance, customer behavior, order trends, seller performance, and product categories.
 
