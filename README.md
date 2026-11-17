@@ -149,9 +149,8 @@ I use Python, SQL, Excel, and Power BI to clean and analyze data, identify trend
 
 Seeking an entry-level **Data Analyst or Business Intelligence role** where I can apply analytical and technical skills to solve business problems, uncover insights, and support informed decision-making.
 
-## 🤝 Connect With Me
+## 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Bhagyashreekatale1" target="_blank">GitHub</a> |
-  <a href="https://linkedin.com/in/bhagyashree-katale-6b6256357" target="_blank">LinkedIn</a>
-</p>
+- **LinkedIn:** [Bhagyashree Katale](https://www.linkedin.com/in/bhagyashree-katale-6b6256357/)
+- **GitHub:** [Bhagyashreekatale1](https://github.com/Bhagyashreekatale1)
+- **Portfolio:** [View My Data Analyst Portfolio](https://bhagyashreekatale1.github.io/Data-Analyst/)
