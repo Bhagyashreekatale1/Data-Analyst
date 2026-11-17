@@ -66,36 +66,85 @@ I use Python, SQL, Excel, and Power BI to clean and analyze data, identify trend
 </p>
 
 
-## 📊 Featured Projects
+## 📂 Featured Data Analytics Projects
 
-### 1. Flipkart Sales Analytics
-[View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Flipkart-Sales-Analytics)
+### 1. Olist E-Commerce Sales & Business Analytics
+**Tools:** PostgreSQL | SQL | Power BI | DAX | Power Query
 
-Analyze sales performance, product trends, revenue, and regional distribution to identify business insights and support data-driven decisions.
+- Analyzed Brazilian e-commerce data to understand sales performance, customer behavior, order trends, seller performance, and product categories.
+- Performed SQL-based data validation and exploratory analysis.
+- Developed interactive Power BI dashboards covering business performance across multiple areas.
 
-**Tech Stack:** Power BI, Power Query, Data Visualization
+🔗 [View Project](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Olist%20E-Commerce%20Sales%20%26%20Business%20Analytics)
 
-### 2. Uber Rides Data Analysis
-[View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Uber-Rides-Analysis)
+### 2. Supply Chain Risk & Operational Analytics
+**Tools:** MySQL | Python | Pandas | NumPy | Power BI | DAX
 
-Analyze ride bookings, revenue trends, peak hours, customer behavior, and cancellation patterns to understand operational performance and ride demand.
+- Analyzed supply chain operations to identify delivery delays, regional risks, and product profitability issues.
+- Evaluated shipping performance, operational risk, and revenue exposure.
+- Created interactive dashboards to support risk monitoring and operational decision-making.
 
-**Tech Stack:** Python, Pandas, SQL, Power BI, Exploratory Data Analysis
+🔗 [View Project](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Supply%20Chain%20Risk%20%26%20Operational%20Analytics)
 
-### 3. Vendor Performance Analysis
-[View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Vendor-Performance-Analysis)
+### 3. Financial Performance & Profitability Analytics
+**Tools:** MySQL | SQL | Power BI | Excel | DAX
 
-Evaluate vendor performance, purchasing patterns, sales contribution, and supplier metrics to identify improvement opportunities and support procurement decisions.
+- Analyzed financial performance, revenue trends, profit contribution, and product profitability.
+- Performed data validation and duplicate handling.
+- Built dashboards to evaluate product performance and discount impact.
 
-**Tech Stack:** Python, Pandas, SQLite, SQL, Power BI
+🔗 [View Project](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Financial%20Performance%20%26%20Profitability%20Analytics)
 
-### 4. Customer Segmentation & RFM Analysis
-[View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Customer-Segmentation-RFM-Dashboard)
+### 4. Vendor Performance Analysis
+**Tools:** Python | Pandas | NumPy | SQL | Power BI
 
-Apply Recency, Frequency, and Monetary (RFM) analysis to segment customers, identify high-value customers, and understand customer retention opportunities.
+- Analyzed vendor sales, procurement trends, and brand profitability.
+- Examined purchasing patterns and inventory-related performance.
+- Developed analytical reports to support vendor evaluation and business decisions.
 
-**Tech Stack:** Python, SQL, Power BI, RFM Analysis
+🔗 [View Project](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Vendor-Performance-Analysis)
 
+### 5. Uber Rides Analysis
+**Tools:** Power BI | Power Query | DAX | Excel
+
+- Analyzed ride bookings, revenue, demand patterns, and vehicle performance.
+- Evaluated cancellation trends and ride-booking behavior.
+- Created interactive dashboards to understand operational performance.
+
+🔗 [View Project](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Uber-Rides-Analysis)
+
+### 6. Flipkart Sales Analytics
+**Tools:** Power BI | Power Query | DAX | Excel
+
+- Analyzed sales performance, profit trends, product categories, and regional performance.
+- Explored customer segments and order fulfillment.
+- Developed interactive dashboards with KPIs and dynamic filters.
+
+🔗 [View Project](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Flipkart-Sales-Analytics)
+
+### 7. Customer Segmentation & RFM Analysis Dashboard
+**Tools:** Power BI | Power Query | DAX | Excel
+
+- Performed RFM (Recency, Frequency, Monetary) analysis to understand customer purchasing behavior.
+- Segmented customers based on transaction history and purchasing patterns.
+- Identified valuable, loyal, at-risk, and lost customer segments to support retention strategies.
+
+🔗 [View Project](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Customer-Segmentation-RFM-Dashboard)
+
+---
+
+## 💼 Internship Experience
+
+**Data Analytics Intern – YSM Info Solution**
+- Worked on a Flipkart Sales Analytics project using Power BI.
+- Performed data cleaning and transformation using Power Query.
+- Developed dashboards to analyze sales performance and business KPIs.
+
+**Power BI Intern – R3 Systems India Pvt. Ltd.**
+- Gained practical experience in Microsoft Power BI.
+- Worked on data cleaning, transformation, visualization, and report development.
+
+---
 ## 🎯 Career Objective
 
 Seeking an entry-level **Data Analyst or Business Intelligence role** where I can apply analytical and technical skills to solve business problems, uncover insights, and support informed decision-making.
